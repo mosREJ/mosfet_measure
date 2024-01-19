@@ -46,3 +46,15 @@ There's also help list if you have any doubts:
 ## API
 
 See: src/cmds.h
+
+
+
+# TODO:
+- [ ] allow to use multimeter/powersuppy separately 
+- [ ] add more crucial commands e.g. current limit before measure session 
+- [ ] check max/optimal delay between commands 
+- [ ] check how measure with auto range on\
+- [ ] add write to file e.g. `tee` 
+- [ ] ?? add  smth that checks overcurrent occured to many times e.g. 5 times in a row
+- [ ] try python's lib for 3D printer control 
+
