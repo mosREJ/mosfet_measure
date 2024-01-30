@@ -12,6 +12,9 @@ set(SOURCE_FILES
     src/tcp.c
     src/cmds.c
     src/ring_buffer.c
+    src/power_supp.c
+    src/multimeter.c
+    
 )
 
 add_executable(${TARGET_NAME} ${SOURCE_FILES})
